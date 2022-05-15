@@ -274,7 +274,7 @@ status_list = status_list[-2:]
 ```
 
 
-#### 12. Визуализация данных с _Bokeh_ (см. файл. plotting.py)
+#### 12. Визуализация данных с _Bokeh_ (см. файл plotting.py)
 
 ```
 from motion_detector import df
